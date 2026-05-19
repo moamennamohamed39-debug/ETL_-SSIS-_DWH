@@ -164,32 +164,43 @@ SSIS_ETL_Project/
 
 ### Dim Salesman
 
-![Dim Salesman](screenshots/dim-salesman.png)
+![Dim Salesman](ETL_DWH_SSIS/screenshots/dim-salesman.png)
+
+---
 
 ### Dim Customer
 
-![Dim Customer](screenshots/dim_customer.png)
+![Dim Customer](ETL_DWH_SSIS/screenshots/dim_customer.png)
+
+---
 
 ### Dim Product
 
-![Dim Product](screenshots/dim_product.png)
+![Dim Product](ETL_DWH_SSIS/screenshots/dim_product.png)
+
+---
 
 ### Fact Sales
 
-![Fact Sales](screenshots/fact_sale.png)
+![Fact Sales](ETL_DWH_SSIS/screenshots/fact_sale.png)
+
+---
 
 ### Incremental Load
 
-![Incremental Load](screenshots/incremental_load.png)
+![Incremental Load](ETL_DWH_SSIS/screenshots/incremental load.png)
+
+---
 
 ### OLAP Diagram
 
-![OLAP Diagram](screenshots/olap_diagram.png)
+![OLAP Diagram](ETL_DWH_SSIS/screenshots/olap_diagram.png)
+
+---
 
 ### OLTP Diagram
 
-![OLTP Diagram](screenshots/oltp_diagram.png)
-
+![OLTP Diagram](ETL_DWH_SSIS/screenshots/oltp_diagram.png)
 ---
 
 ## ✅ Results
