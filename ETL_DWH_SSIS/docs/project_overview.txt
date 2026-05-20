@@ -1,0 +1,38 @@
+PROJECT OVERVIEW
+================
+
+Project Name:
+SSIS ETL Sales Data Warehouse Project
+
+Description:
+This project implements a complete ETL pipeline using SQL Server Integration Services (SSIS).
+
+Source:
+CSV sales files
+
+Processing Steps:
+1. Extract data from CSV files
+2. Load raw data into staging tables
+3. Apply transformations
+4. Process Slowly Changing Dimension Type 2 (SCD2)
+5. Perform incremental loading using LastModified
+6. Load Fact and Dimension tables
+
+Data Warehouse Design:
+- FactSales
+- DimCustomer
+- DimProduct
+- DimSalesman
+- DimDate (optional)
+
+Key Features:
+- Star Schema
+- SCD Type 2
+- Incremental Loading
+- Lookup Transformations
+- Surrogate Keys
+
+Tools:
+- SQL Server
+- SSIS
+- Visual Studio SSDT
