@@ -1,0 +1,31 @@
+ETL ARCHITECTURE
+================
+
+CSV Files
+    |
+    v
+
+Staging Tables
+    |
+    v
+
+SSIS Transformations
+(Data Conversion,
+Derived Columns,
+Lookup Mapping)
+    |
+    v
+
+Dimension Tables
+- DimCustomer
+- DimProduct
+- DimSalesman
+    |
+    v
+
+Fact Table
+- FactSales
+    |
+    v
+
+Analytics / Reporting
